@@ -9,6 +9,7 @@ public abstract class UserActivity implements  IActivity{
         return null;
     }
 
+
     @Override
     public WF_ACTIVITY_STATUS activityStatus() {
         return null;

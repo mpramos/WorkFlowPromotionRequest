@@ -5,4 +5,5 @@ public class Workflow {
  IActivity[] activity;
 
  WorkFlow_STATUS status;
+ public static void addActivity(IActivity Activity){}
 }

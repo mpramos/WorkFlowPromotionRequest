@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="027021e6-ac28-411c-84db-8d3985d22996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/core/enums/WF_ACTIVITY_STATUS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/enums/WORKFLOW_STATUS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/Gateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Gateway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/IActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/IActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/SystemActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/SystemActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/UserActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/UserActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Workflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Workflow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

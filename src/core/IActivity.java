@@ -2,5 +2,7 @@ package core;
 
 public interface IActivity {
 
-    String activityName();
+    public static void activityName(){};
+
+
 }
